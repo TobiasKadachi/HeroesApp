@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,6 +166,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "venom",
+      "superhero": "Venom",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Eddie Brock",
+      "first_appearance": "The Amazing Spider-man #300",
+      "characters": "Venom, Agente Venom, Anti-Venom",
+      "alt_img": "https://www.yourdecoration.es/cdn/shop/files/grupo-erik-gpe5646-marvel-venom-comicbook-poster-61x91-5cm.jpg?v=1721044835"
     }
   ]
 }
